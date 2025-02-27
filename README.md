@@ -113,7 +113,7 @@
 
 ## Github Stats  
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chalua&hide_border=true&layout=compact" align="left" width="367px" height="195px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chalua&hide_border=true&layout=compact" align="left" width="300px" height="195px" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=chalua&show_icons=true&count_private=true&hide_border=true" align="right" />  
 
