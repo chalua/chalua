@@ -22,9 +22,8 @@
 <br/>  
 
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
+## My Skill Set 
+<table align="center"><tr><td valign="top" width="33%">
 
 
 ### Frontend  
@@ -90,6 +89,7 @@
 </div>
 
 </td></tr></table>  
+
 <br/>  
 
 <img src=https://github.com/user-attachments/assets/7434bfba-2449-40e9-a827-6c52b403f7ae align="center" style="width: 100%;" />
